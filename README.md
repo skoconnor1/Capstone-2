@@ -10,5 +10,5 @@
  The folder "SavedFiles" contains files and images that I saved throughout the project, such as pickled
  dataframes.
  
- The folders "DataWrangling," "EDA," and "MachineLearning" contain my jupyter notebooks with code.
+ The folders "DataWrangling," "EDA," and "MachineLearning" contain my jupyter notebooks with my code.
 
